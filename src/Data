@@ -1,0 +1,87 @@
+
+Category
+<label  className="saidbar-label-container">
+    <input type="radio" name="test" />
+    <span className="checkmark"></span>Sneakers
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="test" />
+    <span className="checkmark"></span>Flats
+      </label>
+      
+      <label  className="saidbar-label-container">
+    <input type="radio" name="test" />
+    <span className="checkmark"></span>Sandals
+      </label>
+      
+      <label  className="saidbar-label-container">
+    <input type="radio" name="test" />
+    <span className="checkmark"></span>Heels
+      </label>
+
+
+
+      price
+      
+  <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>All
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>$0-$50
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>$50-$100
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>$100-$150
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>Over$150
+      </label>
+
+      Color
+
+      
+  <label  className="saidbar-label-container color-title">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>All
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>Black
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>Blue
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>Red
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>Green
+      </label>
+    
+      <label  className="saidbar-label-container">
+    <input type="radio" name="rest2" />
+    <span className="checkmark"></span>White
+      </label> 
+    
+
+
+
